@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app
+END
+native.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/native.properties
+END
+package.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/package.properties
+END
+native.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/native.defaults.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/build.properties
+END
+ext.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/ext.properties
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/build-impl.xml
+END
+slice-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/slice-impl.xml
+END
+cordova.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/cordova.defaults.properties
+END
+phonegap-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/phonegap-impl.xml
+END
+init-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/init-impl.xml
+END
+defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/defaults.properties
+END
+watch-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/watch-impl.xml
+END
+sass-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/sass-impl.xml
+END
+js-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/js-impl.xml
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/codegen.json
+END
+development.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/development.properties
+END
+resolve-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/resolve-impl.xml
+END
+testing.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/testing.defaults.properties
+END
+find-cmd-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/find-cmd-impl.xml
+END
+production.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/production.properties
+END
+development.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/development.defaults.properties
+END
+production.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/production.defaults.properties
+END
+cordova-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/cordova-impl.xml
+END
+package.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/package.defaults.properties
+END
+refresh-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/refresh-impl.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/plugin.xml
+END
+app.defaults.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/app.defaults.json
+END
+sencha.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/sencha.cfg
+END
+phonegap.defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/phonegap.defaults.properties
+END
+testing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/testing.properties
+END
+resources-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/resources-impl.xml
+END
+page-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/page-impl.xml
+END
+packager-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/packager-impl.xml
+END
+Microloader.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/Microloader.js
+END
+bootstrap-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/bootstrap-impl.xml
+END
+Boot.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/.sencha/app/Boot.js
+END

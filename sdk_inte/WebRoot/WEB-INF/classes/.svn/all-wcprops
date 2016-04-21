@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/WEB-INF/classes
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/WEB-INF/classes/applicationContext.xml
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/WEB-INF/classes/dispatcher-servlet.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/WEB-INF/classes/log4j.properties
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/WEB-INF/classes/jdbc.properties
+END

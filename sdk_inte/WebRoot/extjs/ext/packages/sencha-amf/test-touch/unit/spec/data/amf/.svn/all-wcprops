@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf
+END
+empty.amf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/empty.amf
+END
+XmlDecoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/XmlDecoder.js
+END
+Packet.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/Packet.js
+END
+amf0-records.amf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/amf0-records.amf
+END
+generate-test-data.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/generate-test-data.py
+END
+amf3-records.amf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/amf3-records.amf
+END
+Encoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/Encoder.js
+END
+XmlEncoder.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/XmlEncoder.js
+END
+amf0-all.amf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/amf0-all.amf
+END
+validData.amf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/validData.amf
+END
+Reader.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/Reader.js
+END
+amf3-all.amf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-amf/test-touch/unit/spec/data/amf/amf3-all.amf
+END

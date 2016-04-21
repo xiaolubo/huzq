@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/App.java
+END
+Provincecode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Provincecode.java
+END
+Sdk.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Sdk.java
+END
+Appprice.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Appprice.java
+END
+Sdkprice.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Sdkprice.java
+END
+Province.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Province.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Channel.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/City.java
+END
+Shieldsdk.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Shieldsdk.java
+END
+Requestlog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mrkj/!svn/ver/12495/huzq/sdk_inte/src/com/mrkj/model/Requestlog.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Operator.java
+END
+Appsdkset.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/Appsdkset.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/model/User.java
+END

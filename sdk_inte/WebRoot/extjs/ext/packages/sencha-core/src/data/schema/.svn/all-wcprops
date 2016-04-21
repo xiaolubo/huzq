@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema
+END
+OneToOne.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/OneToOne.js
+END
+ManyToOne.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/ManyToOne.js
+END
+Association.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/Association.js
+END
+ManyToMany.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/ManyToMany.js
+END
+Schema.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/Schema.js
+END
+Role.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/Role.js
+END
+Namer.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/data/schema/Namer.js
+END

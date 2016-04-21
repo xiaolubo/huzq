@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao
+END
+OperatorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/OperatorDao.java
+END
+BaseHibernateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/BaseHibernateDao.java
+END
+AppsdksetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mrkj/!svn/ver/12495/huzq/sdk_inte/src/com/mrkj/dao/AppsdksetDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/UserDao.java
+END
+AppDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/AppDao.java
+END
+ProvincecodeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/ProvincecodeDao.java
+END
+SdkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/SdkDao.java
+END
+ApppriceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/ApppriceDao.java
+END
+SdkpriceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/SdkpriceDao.java
+END
+ProvinceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/ProvinceDao.java
+END
+ChannelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/ChannelDao.java
+END
+CityDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/CityDao.java
+END
+ShieldsdkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/dao/ShieldsdkDao.java
+END
+RequestlogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mrkj/!svn/ver/12495/huzq/sdk_inte/src/com/mrkj/dao/RequestlogDao.java
+END

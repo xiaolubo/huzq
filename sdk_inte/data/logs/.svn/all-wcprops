@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/data/logs
+END
+sdk-debug.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/data/logs/sdk-debug.log
+END
+sdk-error.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/data/logs/sdk-error.log
+END
+sdk-info.log
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/data/logs/sdk-info.log
+END

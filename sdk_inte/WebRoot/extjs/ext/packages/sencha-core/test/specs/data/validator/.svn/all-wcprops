@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator
+END
+Presence.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Presence.js
+END
+Validator.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Validator.js
+END
+Email.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Email.js
+END
+Format.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Format.js
+END
+Exclusion.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Exclusion.js
+END
+Range.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Range.js
+END
+Length.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Length.js
+END
+Inclusion.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/test/specs/data/validator/Inclusion.js
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture
+END
+SingleTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/SingleTouch.js
+END
+Tap.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/Tap.js
+END
+Recognizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/Recognizer.js
+END
+Swipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/Swipe.js
+END
+EdgeSwipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/EdgeSwipe.js
+END
+LongPress.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/LongPress.js
+END
+Drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/Drag.js
+END
+MultiTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/MultiTouch.js
+END
+Rotate.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/Rotate.js
+END
+DoubleTap.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/DoubleTap.js
+END
+Pinch.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/WebRoot/extjs/ext/packages/sencha-core/src/event/gesture/Pinch.js
+END

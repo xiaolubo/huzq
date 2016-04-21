@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/UserServiceImpl.java
+END
+AppServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mrkj/!svn/ver/12495/huzq/sdk_inte/src/com/mrkj/serviceImpl/AppServiceImpl.java
+END
+ProvincecodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/ProvincecodeServiceImpl.java
+END
+SdkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/SdkServiceImpl.java
+END
+ProvinceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/ProvinceServiceImpl.java
+END
+ChannelServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/ChannelServiceImpl.java
+END
+CityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/CityServiceImpl.java
+END
+RequestlogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mrkj/!svn/ver/12495/huzq/sdk_inte/src/com/mrkj/serviceImpl/RequestlogServiceImpl.java
+END
+OperatorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mrkj/!svn/ver/12313/huzq/sdk_inte/src/com/mrkj/serviceImpl/OperatorServiceImpl.java
+END

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sdk_inte"
+  id="myeclipse.1455702086954"
+  context-root="/sdk_inte"
+  j2ee-spec="5.0"
+  archive="sdk_inte.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
